@@ -4,7 +4,11 @@ body {
     background: LightSteelBlue;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
 }
-
+section.sub1 {
+    padding-left: 2em;
+    background: lavender;
+    margin-left: 5mm;
+}
 div.side-by-side {
     display: flex;
 }
@@ -15,6 +19,6 @@ img {
 }
 
 .featureBlock {
-    background-color:pink;
+    background-color: pink;
     font-size: smaller;
 }
