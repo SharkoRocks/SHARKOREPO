@@ -13,7 +13,7 @@ section.sub1 {
 div.side-by-side {
     display: flex;
 }
-section.red {
+.red {
     color:red; 
     display: flex;
 }
