@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Reflection - GitHub vs WordPress</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="resume.html">Resume SHARKO</a> | 
+            <a href="gallery.html">Gallery</a> | 
+            <a href="reflection.html">Reflection</a> |
+            <a href="https://sites.psu.edu/sharko/" target="_blank">External Site</a>
+        </nav>
+        
+        <section id="reflection">
+            <h1>Reflection: GitHub vs. WordPress Development</h1>
+            
+            <p>Developing a site through GitHub Pages is a manual, technical process that requires a deep understanding of syntax and file structure. In contrast, WordPress offers a managed environment where the interface handles the heavy lifting. The most significant difference is the level of control: GitHub requires you to build every piece from scratch, while WordPress provides a pre-built framework that you simply customize.</p>
+            
+            <p>For a new learner, the most significant challenge in GitHub is "well-formedness"—one missing bracket or a lowercase file extension can break the entire site. In WordPress, the challenge is navigating the massive amount of settings and plugins, which can be overwhelming. The advantage of GitHub is total creative freedom and no cost, whereas WordPress provides speed and ease of use through its visual editors.</p>
+            
+            <p>Modifying the layout in GitHub requires editing CSS and understanding the grid or flexbox systems, which is time-consuming. In WordPress, organization is usually handled through a "drag-and-drop" interface, though it can be frustrating when a theme doesn't allow a specific change you want. GitHub development requires knowledge of HTML, CSS, and terminal commands, while WordPress primarily requires digital literacy and an eye for design.</p>
+            
+            <p>To improve these sites, I would want to learn more about automated styling and better asset management. Moving forward, having a grasp of both the "under the hood" coding and the user-friendly CMS side provides a well-rounded view of how the web functions.</p>
+            
+            <p><strong>Links to Alternate Sites:</strong></p>
+            <ul>
+                <li><a href="https://sites.psu.edu/sharko/" target="_blank">My WordPress Site</a></li>
+                <li><a href="index.html">My GitHub Site Home</a></li>
+            </ul>
+        </section>
+        
+        <footer>
+            <p>Visit my other site: <a href="https://sites.psu.edu/sharko/" target="_blank">sites.psu.edu/sharko/</a></p>
+        </footer>
+    </body>
+</html>
