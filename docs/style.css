@@ -39,3 +39,15 @@ figcaption {
     color: #333;
     font-size: 0.9rem;
 }
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    border-top: 1px solid #333;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+footer a {
+    color: #d00;
+    text-decoration: underline;
+}
